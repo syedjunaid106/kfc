@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import menuData from '@/data/menuData';
-import MenuList from '@/components/MenuList';
+import MenuList from '@/app/components/MenuList';
 import { useRouter } from 'next/navigation';
 const CategoryPage = () => {
   const router = useRouter();
