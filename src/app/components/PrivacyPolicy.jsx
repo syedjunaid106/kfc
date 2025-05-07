@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
         Privacy Policy
       </h1>
       <p className="lg:text-md text-sm text-brand-secondary font-thin font-ftr text-center mt-8">
-        YUM'S CORPORATION PRIVACY POLICY — YOUR PRIVACY RIGHTS
+        YUM&apos;S CORPORATION PRIVACY POLICY — YOUR PRIVACY RIGHTS
         <p className="lg:text-md text-sm text-brand-secondary font-thin font-ftr text-center ">
           EFFECTIVE DATE: JUNE 9, 2014
         </p>

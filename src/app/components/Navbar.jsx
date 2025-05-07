@@ -95,7 +95,7 @@ const Navbar = () => {
           <div className="hidden lg:flex flex-grow items-center justify-center">
             <Link href="/">
               <span className="text-brand-primary font-extrabold text-4xl lg:mx-5">
-                YUM'S
+                YUM&apos;S
               </span>
             </Link>
           </div>
@@ -125,7 +125,7 @@ const Navbar = () => {
         <div className="flex items-center ml-auto lg:ml-0">
           <Link href="/" className="lg:hidden">
             <span className="text-brand-primary font-extrabold text-2xl ">
-              YUM'S
+              YUM&apos;S
             </span>
           </Link>
           <Link href="/bucket">

@@ -7,7 +7,7 @@ const TermsCond = () => {
         Terms and Conditions
       </h1>
       <h3 className="font-extralight my-6 text-center text-brand-secondary font-ftr">
-        YUM'S TERMS OF USE
+        YUM&apos;S TERMS OF USE
       </h3>
       <p className="text-brand-secondary font-ftr">
        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis accusamus totam sint eius deleniti laudantium dicta asperiores provident. Iure, odio! Possimus hic sit assumenda ut officiis maiores dolore? Quaerat corporis, ipsa vero fugit necessitatibus sit deserunt libero dignissimos, laudantium assumenda rerum minima recusandae officia earum omnis aliquid sapiente, sed beatae?
@@ -24,7 +24,7 @@ const TermsCond = () => {
         </p>
         <div>
           <h3 className="lg:text-xl font-ftr text-lg text-brand-secondary mt-5 font-bold">
-            COMMUNICATING WITH YUM'S
+            COMMUNICATING WITH YUM&apos;S
           </h3>
           <p className="text-brand-secondary font-ftr">
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod repellat accusamus cupiditate aliquam exercitationem alias quasi perspiciatis optio ab voluptatem reprehenderit ratione nostrum magnam odit assumenda quidem, deleniti dignissimos dolor laboriosam voluptatibus nisi. Aut molestiae laudantium, fuga ducimus amet alias dicta qui ad ipsam neque facilis maiores vitae nihil minima debitis quod quisquam velit. Esse accusantium natus cum possimus necessitatibus dolorum explicabo illum, iure voluptas ducimus ipsa voluptates amet accusamus molestiae minima! Delectus enim dolore nulla consectetur fugiat autem deleniti illum minus, eius fugit. Quaerat ducimus quo consequuntur iusto aliquam, ab numquam voluptatem modi nobis voluptates voluptatum distinctio necessitatibus assumenda?          
@@ -32,7 +32,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod repellat accusamu
         </div>
         <div>
           <h3 className="lg:text-xl text-lg font-ftr text-brand-secondary mt-5 font-bold">
-            YUM'S PROPERTY
+            YUM&apos;S PROPERTY
           </h3>
           <p className="text-brand-secondary font-ftr">
            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus nostrum dolor quasi quod, cum placeat accusamus odit exercitationem dolorum nihil harum similique consequuntur culpa! Ut tempora cum dicta deserunt doloribus consequatur aliquid, placeat iste dolorem harum molestias, animi inventore voluptas quidem omnis nostrum perferendis temporibus deleniti explicabo totam dolor? Nostrum reiciendis sint rerum sit adipisci. Reiciendis cumque et placeat. Esse ea voluptate incidunt itaque autem nisi, perspiciatis nobis est doloribus molestiae. Culpa eius maiores corporis voluptates eos perferendis a architecto, magni pariatur esse hic cum? Fugit, ipsa pariatur illo cupiditate maxime aspernatur alias eos accusamus laudantium tempore quibusdam voluptatem quasi quod soluta porro? Consequatur laboriosam accusamus aspernatur! Vero, quam! Veritatis sit porro culpa, dicta pariatur animi eveniet impedit quos a magni id, dolor quae quibusdam voluptatum voluptas eos natus delectus! Recusandae eaque, repellendus fugiat consectetur quod quae doloremque modi velit quo illo inventore nobis eveniet tempore cupiditate natus commodi saepe?

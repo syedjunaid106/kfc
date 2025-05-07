@@ -36,10 +36,10 @@ const FeedBack = () => {
         Have Some Feedback To Share?
       </h3>
       <h3 className="text-brand-primary text-center font-ftr lg:text-2xl text-xl my-2">
-        Well, you’ve come to the right place!
+        Well, you&apos;ve come to the right place!
       </h3>
       <p className="text-brand-secondary text-lg lg:w-[60%]  lg:mx-auto font-ftr   text-center">
-        Fill in the sections below and we'll be in touch soon, or if you want to
+        Fill in the sections below and we&apos;ll be in touch soon, or if you want to
         contact a specific store, visit our locations page for store contact
         details. * indicates a required answer
       </p>
