@@ -33,7 +33,7 @@ const FastFacts = () => {
     <div className="h-full w-full bg-brand-darkGray lg:my-20 my-10">
       <div className="flex items-start justify-start w-[90vw] mx-auto py-10">
         <h2 className="lg:text-3xl text-xl text-brand-secondary font-bold">
-          Fast Facts about YUM'S Pakistan
+          Fast Facts about YUM&apos;S Pakistan
         </h2>
       </div>
 
