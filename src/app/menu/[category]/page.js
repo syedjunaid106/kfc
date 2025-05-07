@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import menuData from '@/data/menuData';
 import MenuList from '@/components/MenuList';
